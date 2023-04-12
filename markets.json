@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "code": "brasil",
+    "status": 1,
+    "name": {
+      "en_GB": "Brazil",
+      "en_US": "Brazil",
+      "es_ES": "Brasil",
+      "pt_BR": "Brasil",
+      "ru_RU": "Бразилия"
+    },
+    "created_at": "2017-03-31T09:44:49.000000Z",
+    "updated_at": "2021-03-12T16:52:18.000000Z",
+    "locales": [
+      "pt_BR",
+      "es_ES",
+      "en_GB"
+    ]
+  },
+  {
+    "id": 2,
+    "code": "argentina",
+    "status": 1,
+    "name": {
+      "en_GB": "Argentina",
+      "en_US": "Argentina",
+      "es_AR": "Argentina",
+      "es_ES": "Argentina",
+      "fr_FR": "Argentina",
+      "pt_BR": "Argentina",
+      "ru_RU": "Аргентина"
+    },
+    "created_at": "2017-03-31T11:27:32.000000Z",
+    "updated_at": "2021-04-26T12:00:43.000000Z",
+    "locales": [
+      "es_AR",
+      "en_GB"
+    ]
+  },
+  {
+    "id": 3,
+    "code": "southamerica",
+    "status": 1,
+    "name": {
+      "en_GB": "South America",
+      "en_US": "South America",
+      "es_ES": "América del Sur",
+      "fr_FR": "Amérique do Sul",
+      "pt_BR": "América do Sul",
+      "ru_RU": "Южная Америка"
+    },
+    "created_at": "2017-03-31T11:30:53.000000Z",
+    "updated_at": "2021-04-26T12:01:07.000000Z",
+    "locales": [
+      "es_ES",
+      "en_GB"
+    ]
+  },
+  {
+    "id": 4,
+    "code": "centralamerica",
+    "status": 1,
+    "name": {
+      "en_GB": "Central America",
+      "en_US": "Central America",
+      "es_ES": "América Central",
+      "fr_FR": "Amérique Centrale",
+      "pt_BR": "América Central",
+      "ru_RU": "Центральная Америка"
+    },
+    "created_at": "2017-03-31T11:32:57.000000Z",
+    "updated_at": "2021-04-26T12:01:44.000000Z",
+    "locales": [
+      "es_ES",
+      "en_GB"
+    ]
+  },
+  {
+    "id": 5,
+    "code": "northamerica",
+    "status": 1,
+    "name": {
+      "en_GB": "North America",
+      "en_US": "North America",
+      "es_AR": "América del Norte",
+      "es_ES": "América del Norte",
+      "fr_FR": "América do Norte",
+      "pt_BR": "América do Norte",
+      "ru_RU": "Северная Америка"
+    },
+    "created_at": "2017-03-31T11:34:51.000000Z",
+    "updated_at": "2021-04-26T12:03:04.000000Z",
+    "locales": [
+      "en_US"
+    ]
+  },
+  {
+    "id": 6,
+    "code": "africa",
+    "status": 1,
+    "name": {
+      "en_GB": "Africa",
+      "en_US": "Africa",
+      "es_ES": "África",
+      "fr_FR": "Afrique",
+      "pt_BR": "África",
+      "ru_RU": "Африка"
+    },
+    "created_at": "2017-03-31T11:35:37.000000Z",
+    "updated_at": "2021-04-26T12:03:44.000000Z",
+    "locales": [
+      "pt_BR",
+      "es_ES",
+      "en_GB"
+    ]
+  },
+  {
+    "id": 7,
+    "code": "middleeast",
+    "status": 1,
+    "name": {
+      "en_GB": "Middle East",
+      "en_US": "Middle East",
+      "es_ES": "Oriente Medio",
+      "pt_BR": "Oriente Médio",
+      "ru_RU": "Ближний Восток"
+    },
+    "created_at": "2017-03-31T11:39:55.000000Z",
+    "updated_at": "2021-04-26T12:04:03.000000Z",
+    "locales": [
+      "en_GB"
+    ]
+  },
+  {
+    "id": 8,
+    "code": "europe",
+    "status": 1,
+    "name": {
+      "en_GB": "Europe",
+      "en_US": "Europe",
+      "es_ES": "Europa",
+      "fr_FR": "Europe",
+      "pt_BR": "Europa",
+      "ru_RU": "Европа"
+    },
+    "created_at": "2017-03-31T11:41:20.000000Z",
+    "updated_at": "2021-04-26T12:13:19.000000Z",
+    "locales": [
+      "es_ES",
+      "ru_RU",
+      "en_GB"
+    ]
+  },
+  {
+    "id": 10,
+    "code": "asia",
+    "status": 1,
+    "name": {
+      "en_GB": "Asia",
+      "en_US": "Asia",
+      "es_ES": "Asia",
+      "pt_BR": "Ásia",
+      "ru_RU": "Азия"
+    },
+    "created_at": "2017-03-31T11:43:18.000000Z",
+    "updated_at": "2021-04-26T12:13:49.000000Z",
+    "locales": [
+      "ru_RU",
+      "en_GB"
+    ]
+  },
+  {
+    "id": 11,
+    "code": "oceania",
+    "status": 1,
+    "name": {
+      "en_GB": "Oceania",
+      "en_US": "Oceania",
+      "es_ES": "Oceanía",
+      "fr_FR": "Océanie",
+      "pt_BR": "Oceania",
+      "ru_RU": "Океания"
+    },
+    "created_at": "2017-03-31T11:44:59.000000Z",
+    "updated_at": "2021-04-26T12:07:16.000000Z",
+    "locales": [
+      "en_GB"
+    ]
+  },
+  {
+    "id": 12,
+    "code": "mexico",
+    "status": 1,
+    "name": {
+      "en_GB": "Mexico",
+      "es_ES": "Mexico",
+      "pt_BR": "México"
+    },
+    "created_at": "2019-10-29T10:40:58.000000Z",
+    "updated_at": "2021-04-26T12:02:37.000000Z",
+    "locales": [
+      "es_ES",
+      "en_GB"
+    ]
+  },
+  {
+    "id": 13,
+    "code": "southafrica",
+    "status": 1,
+    "name": {
+      "en_GB": "South Africa",
+      "es_ES": "Sudáfrica",
+      "pt_BR": "África do Sul"
+    },
+    "created_at": "2020-07-08T10:13:05.000000Z",
+    "updated_at": "2021-04-26T12:05:32.000000Z",
+    "locales": [
+      "en_GB"
+    ]
+  },
+  {
+    "id": 14,
+    "code": "russia",
+    "status": 1,
+    "name": {
+      "en_GB": "Russia",
+      "pt_BR": "Rússia",
+      "ru_RU": "Россия"
+    },
+    "created_at": "2020-09-10T18:24:12.000000Z",
+    "updated_at": "2021-04-26T12:05:58.000000Z",
+    "locales": [
+      "ru_RU",
+      "en_GB"
+    ]
+  },
+  {
+    "id": 15,
+    "code": "ukraine",
+    "status": 1,
+    "name": {
+      "en_GB": "Ukraine",
+      "pt_BR": "Ucrânia",
+      "ru_RU": "Украина"
+    },
+    "created_at": "2020-09-10T18:24:12.000000Z",
+    "updated_at": "2021-06-17T17:25:16.000000Z",
+    "locales": [
+      "en_GB",
+      "ru_RU"
+    ]
+  },
+  {
+    "id": 16,
+    "code": "paraguay",
+    "status": 1,
+    "name": {
+      "en_GB": "Paraguay",
+      "es_ES": "Paraguay",
+      "pt_BR": "Paraguai"
+    },
+    "created_at": "2020-11-30T16:48:53.000000Z",
+    "updated_at": "2021-04-26T12:07:43.000000Z",
+    "locales": [
+      "es_ES",
+      "pt_BR"
+    ]
+  }
+]

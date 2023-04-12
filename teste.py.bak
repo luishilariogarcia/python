@@ -1,0 +1,6 @@
+import requests
+import json
+pagina = requests.get('https://jacto.com/api/v1/products')
+#print(pagina.content)
+todos = json.loads(pagina.content)
+print(todos)

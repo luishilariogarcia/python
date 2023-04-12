@@ -1,0 +1,1822 @@
+[
+  {
+    "id": 1,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Self-propelled sprayer",
+      "en_US": "Self-propelled sprayer",
+      "es_AR": "Pulverizador autopropulsado",
+      "es_ES": "Pulverizador autopropulsado",
+      "fr_FR": "",
+      "pt_BR": "Pulverizadores Automotrizes",
+      "ru_RU": "Самоходные опрыскиватели"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1597427743838_automotriz.png",
+      "name": "category_image_1597427743838_automotriz.png",
+      "size": 247645,
+      "type": "image/png"
+    },
+    "created_at": "2017-03-31T09:44:49.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "self-propelled-sprayer",
+      "en_US": "self-propelled-sprayer",
+      "es_AR": "pulverizador-autopropulsado",
+      "es_ES": "pulverizador-autopropulsado",
+      "fr_FR": "",
+      "pt_BR": "pulverizadores-automotrizes",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 2,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Fertilizer spreader",
+      "en_US": "Fertilizer spreader",
+      "es_AR": "Abonadora",
+      "es_ES": "Abonadora",
+      "pt_BR": "Adubadoras",
+      "ru_RU": "Разбрасыватели удобрений"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1618597672253_pagina_teste.jpg",
+      "name": "category_image_1618597672253_pagina_teste.jpg",
+      "size": 154668,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-03-31T11:59:56.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "fertilizer-spreader",
+      "en_US": "fertilizer-spreader",
+      "es_AR": "abonadora",
+      "es_ES": "abonadora",
+      "pt_BR": "adubadoras",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 3,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Coffee Harvester",
+      "en_US": "Coffee Harvester",
+      "es_AR": "Cosechadora de Café",
+      "es_ES": "Cosechadora de Café",
+      "fr_FR": "Machine à Vendanger Café",
+      "pt_BR": "Colhedoras de Café",
+      "ru_RU": "Машина для сборки кофе"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1597428160071_colhedora.png",
+      "name": "category_image_1597428160071_colhedora.png",
+      "size": 260459,
+      "type": "image/png"
+    },
+    "created_at": "2017-03-31T12:03:10.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "coffee-harvester",
+      "en_US": "coffee-harvester",
+      "es_AR": "cosechadora-de-cafe",
+      "es_ES": "cosechadora-de-cafe",
+      "fr_FR": "machine-a-vendanger-cafe",
+      "pt_BR": "colhedoras-de-cafe",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 4,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Mounted Sprayers",
+      "en_US": "3-Point Mounted Boom Sprayers",
+      "es_AR": "Pulverizador Barras acoplado ",
+      "es_ES": "Pulverizador Barras acoplado ",
+      "pt_BR": "Pulverizador Barra Acoplado",
+      "ru_RU": "Навесные опрыскиватели"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493248848_04_Barra_Acoplado.jpg",
+      "name": "category_image_1493248848_04_Barra_Acoplado.jpg",
+      "size": 197454,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-03-31T12:13:09.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "mounted-sprayers",
+      "en_US": "3-point-mounted-boom-sprayers",
+      "es_AR": "pulverizador-barras-acoplado",
+      "es_ES": "pulverizador-barras-acoplado",
+      "pt_BR": "pulverizador-barra-acoplado",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 5,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Trailed Sprayers",
+      "en_US": "Trailed Boom Sprayers",
+      "es_AR": "Pulverizador Barras Arrastre",
+      "es_ES": "Pulverizador Barras Arrastre",
+      "pt_BR": "Pulverizador Barra Carreta",
+      "ru_RU": "Прицепные опрыскиватели"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493248867_05_Barra_Carreta.jpg",
+      "name": "category_image_1493248867_05_Barra_Carreta.jpg",
+      "size": 189379,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:04:36.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "trailed-sprayers",
+      "en_US": "trailed-boom-sprayers",
+      "es_AR": "pulverizador-barras-arrastre",
+      "es_ES": "pulverizador-barras-arrastre",
+      "pt_BR": "pulverizador-barra-carreta",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 6,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Mounted Cannon Sprayers",
+      "en_US": "3-Point Mounted Cannon Sprayers",
+      "es_AR": "Pulverizador Cañón Acoplado",
+      "es_ES": "Pulverizador Cañón Acoplado",
+      "pt_BR": "Pulverizador Canhão Acoplado",
+      "ru_RU": "Навесные пушечные опрыскиватели"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493847337_Canhao_Acoplado.jpg",
+      "name": "category_image_1493847337_Canhao_Acoplado.jpg",
+      "size": 150010,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:29:01.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "mounted-cannon-sprayers",
+      "en_US": "3-point-mounted-cannon-sprayers",
+      "es_AR": "pulverizador-canon-acoplado",
+      "es_ES": "pulverizador-canon-acoplado",
+      "pt_BR": "pulverizador-canhao-acoplado",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 7,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Trailed Cannon Sprayers",
+      "en_US": "Trailed Cannon Sprayer",
+      "es_AR": "Pulverizador Cañón Arrastre",
+      "es_ES": "Pulverizador Cañón Arrastre",
+      "pt_BR": "Pulverizador Canhão Carreta",
+      "ru_RU": "Прицепные пушечные опрыскиватели"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493408160_Untitled-2.jpg",
+      "name": "category_image_1493408160_Untitled-2.jpg",
+      "size": 125786,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:29:14.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "trailed-cannon-sprayers",
+      "en_US": "trailed-cannon-sprayer",
+      "es_AR": "pulverizador-canon-arrastre",
+      "es_ES": "pulverizador-canon-arrastre",
+      "pt_BR": "pulverizador-canhao-carreta",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 8,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Mounted Air Blast Sprayers",
+      "en_US": "3-Point Mounted Air Blast Sprayers",
+      "es_AR": "Pulverizador Turbo Acoplado",
+      "es_ES": "Pulverizador Turbo Acoplado",
+      "pt_BR": "Pulverizador Turbo Acoplado",
+      "ru_RU": "Навесные вентиляторные опрыскиватели"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493408617_Untitled-2.jpg",
+      "name": "category_image_1493408617_Untitled-2.jpg",
+      "size": 198416,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:29:43.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "mounted-air-blast-sprayers",
+      "en_US": "3-point-mounted-air-blast-sprayers",
+      "es_AR": "pulverizador-turbo-acoplado",
+      "es_ES": "pulverizador-turbo-acoplado",
+      "pt_BR": "pulverizador-turbo-acoplado",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 9,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Trailed Air Blast Sprayers",
+      "en_US": "Trailed Air Blast Sprayers",
+      "es_AR": "Pulverizador Turbo Arrastre",
+      "es_ES": "Pulverizador Turbo Arrastre",
+      "pt_BR": "Pulverizador Turbo Carreta",
+      "ru_RU": "Прицепные вентиляторные опрыскиватели"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493408887_Untitled-2.jpg",
+      "name": "category_image_1493408887_Untitled-2.jpg",
+      "size": 162431,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:30:31.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "trailed-air-blast-sprayers",
+      "en_US": "trailed-air-blast-sprayers",
+      "es_AR": "pulverizador-turbo-arrastre",
+      "es_ES": "pulverizador-turbo-arrastre",
+      "pt_BR": "pulverizador-turbo-carreta",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 10,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Ceramic nozzles ",
+      "en_US": "Ceramic nozzles ",
+      "es_AR": "Boquilla Cerámica",
+      "es_ES": "Boquilla Cerámica",
+      "pt_BR": "Bicos Cerâmicos",
+      "ru_RU": "Керамические головки распылителей"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493847304_Bicos_Ceramicos.jpg",
+      "name": "category_image_1493847304_Bicos_Ceramicos.jpg",
+      "size": 112004,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:31:07.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "ceramic-nozzles",
+      "en_US": "ceramic-nozzles",
+      "es_AR": "boquilla-ceramica",
+      "es_ES": "boquilla-ceramica",
+      "pt_BR": "bicos-ceramicos",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 11,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Plastic Nozzles",
+      "en_US": "Plastic Nozzles",
+      "es_AR": "Boquilla Plástico",
+      "es_ES": "Boquilla Plástico",
+      "pt_BR": "Bicos Plásticos",
+      "ru_RU": "Пластиковые головки распылителей"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493847349_Bicos_Plasticos.jpg",
+      "name": "category_image_1493847349_Bicos_Plasticos.jpg",
+      "size": 111312,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:31:21.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "plastic-nozzles",
+      "en_US": "plastic-nozzles",
+      "es_AR": "boquilla-plastico",
+      "es_ES": "boquilla-plastico",
+      "pt_BR": "bicos-plasticos",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 12,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Mounted Special Sprayers",
+      "en_US": "3-Point Mounted Special Sprayers",
+      "es_AR": "Pulverizador Especial Acoplado",
+      "es_ES": "Pulverizador Especial Acoplado",
+      "pt_BR": "Pulverizador Especial Acoplado",
+      "ru_RU": "Особые навесные"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493249070_12_Especial_Acoplado.jpg",
+      "name": "category_image_1493249070_12_Especial_Acoplado.jpg",
+      "size": 173833,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:38:49.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "mounted-special-sprayers",
+      "en_US": "3-point-mounted-special-sprayers",
+      "es_AR": "pulverizador-especial-acoplado",
+      "es_ES": "pulverizador-especial-acoplado",
+      "pt_BR": "pulverizador-especial-acoplado",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 13,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Trailed Special Sprayers",
+      "en_US": "Trailed Special Sprayers",
+      "es_AR": "Pulverizador Especial de Arrastre",
+      "es_ES": "Pulverizador Especial de Arrastre",
+      "pt_BR": "Pulverizador Especial Carreta",
+      "ru_RU": "Особые прицепные"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493249086_13_Especial_Carreta.jpg",
+      "name": "category_image_1493249086_13_Especial_Carreta.jpg",
+      "size": 154009,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:39:11.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "trailed-special-sprayers",
+      "en_US": "trailed-special-sprayers",
+      "es_AR": "pulverizador-especial-de-arrastre",
+      "es_ES": "pulverizador-especial-de-arrastre",
+      "pt_BR": "pulverizador-especial-carreta",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 14,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Accessories",
+      "en_US": "Accessories",
+      "es_ES": "Accesorios ",
+      "pt_BR": "Acessórios",
+      "ru_RU": "Фурнитура"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493847357_Acessorios.jpg",
+      "name": "category_image_1493847357_Acessorios.jpg",
+      "size": 205416,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:39:26.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "accessories",
+      "en_US": "accessories",
+      "es_ES": "accesorios",
+      "pt_BR": "acessorios",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [],
+    "children_ids": []
+  },
+  {
+    "id": 15,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Backpack Sprayers",
+      "en_US": "Backpack Sprayers",
+      "es_AR": "Pulverizadores Mochilas",
+      "es_ES": "Pulverizadores Mochilas",
+      "fr_FR": "Pulvérisateur",
+      "pt_BR": "Pulverizadores Costais",
+      "ru_RU": "Ранцевые опрыскиватели"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493413355_Untitled-2.jpg",
+      "name": "category_image_1493413355_Untitled-2.jpg",
+      "size": 99848,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-03T11:42:19.000000Z",
+    "updated_at": "2021-11-23T11:51:57.000000Z",
+    "slug": {
+      "en_GB": "backpack-sprayers",
+      "en_US": "backpack-sprayers",
+      "es_AR": "pulverizadores-mochilas",
+      "es_ES": "pulverizadores-mochilas",
+      "fr_FR": "pulverisateur",
+      "pt_BR": "pulverizadores-costais",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 0,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 16,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Pruners",
+      "en_US": "Pruners",
+      "es_AR": "Tijeras de poda",
+      "es_ES": "Tijeras de poda",
+      "fr_FR": "Sécateurs",
+      "pt_BR": "Equipamentos para poda",
+      "ru_RU": "Секаторы"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1493416017_Untitled-2.jpg",
+      "name": "category_image_1493416017_Untitled-2.jpg",
+      "size": 91183,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-04-26T19:30:16.000000Z",
+    "updated_at": "2021-06-15T20:48:24.000000Z",
+    "slug": {
+      "en_GB": "pruners",
+      "en_US": "pruners",
+      "es_AR": "tijeras-de-poda",
+      "es_ES": "tijeras-de-poda",
+      "fr_FR": "secateurs",
+      "pt_BR": "equipamentos-para-poda",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 0,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 18,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Knapsack Sprayer Accessories ",
+      "en_US": "Backpack Sprayer Accessories ",
+      "es_AR": "Accesorios para pulverizadores mochila",
+      "es_ES": "Accesorios para pulverizadores mochila",
+      "fr_FR": "Accessoires de pulvérisateur à dos",
+      "pt_BR": "Acessórios para Costais ",
+      "ru_RU": "Комплектующие к ранцевым опрыскивателям"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1497450362_by.jpg",
+      "name": "category_image_1497450362_by.jpg",
+      "size": 474906,
+      "type": "image/jpeg"
+    },
+    "created_at": "2017-06-12T18:20:49.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "knapsack-sprayer-accessories",
+      "en_US": "backpack-sprayer-accessories",
+      "es_AR": "accesorios-para-pulverizadores-mochila",
+      "es_ES": "accesorios-para-pulverizadores-mochila",
+      "fr_FR": "accessoires-de-pulverisateur-a-dos",
+      "pt_BR": "acessorios-para-costais",
+      "ru_RU": ""
+    },
+    "header_image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_header_image_1559039449146_barra_canteiro.jpg",
+      "name": "category_header_image_1559039449146_barra_canteiro.jpg",
+      "size": 1182969,
+      "type": "image/jpeg"
+    },
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 19,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "SmartSelector",
+      "en_US": "SmartSelector",
+      "pt_BR": "SmartSelector"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1499188495_Icon_SmartSelector.png",
+      "name": "category_image_1499188495_Icon_SmartSelector.png",
+      "size": 427621,
+      "type": "image/png"
+    },
+    "created_at": "2017-07-04T16:27:33.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "smartselector",
+      "en_US": "smartselector",
+      "pt_BR": "smartselector"
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 20,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "en_GB": "Battery Knapsack Sprayers and Dosers",
+      "en_US": "Battery Knapsack Sprayers and Dosers",
+      "es_AR": "Pulverizadores y Dosificadores Mochila Bateria",
+      "es_ES": "Pulverizadores y Dosificadores Mochila Bateria",
+      "fr_FR": "Pulverisateurs et Doseurs Baterie à dos à Batterie",
+      "pt_BR": "Pulverizadores e Dosadores Costais a Bateria"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1542122351110_PJB_frente.jpg",
+      "name": "category_image_1542122351110_PJB_frente.jpg",
+      "size": 774833,
+      "type": "image/jpeg"
+    },
+    "created_at": "2018-10-30T14:00:42.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "battery-knapsack-sprayers-and-dosers",
+      "en_US": "battery-knapsack-sprayers-and-dosers",
+      "es_AR": "pulverizadores-y-dosificadores-mochila-bateria",
+      "es_ES": "pulverizadores-y-dosificadores-mochila-bateria",
+      "fr_FR": "pulverisateurs-et-doseurs-baterie-a-dos-a-batterie",
+      "pt_BR": "pulverizadores-e-dosadores-costais-a-bateria"
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 21,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Portable Granular Spreader",
+      "en_US": "Portable Granule Spreader",
+      "es_AR": "Dispensador de Gránulos Portátil",
+      "es_ES": "Dispensador de Gránulos Portátil",
+      "pt_BR": "Distribuidores de Grânulos"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1602756671202_GM-3_01_categoria_site.jpg",
+      "name": "category_image_1602756671202_GM-3_01_categoria_site.jpg",
+      "size": 75496,
+      "type": "image/jpeg"
+    },
+    "created_at": "2019-11-27T12:40:38.000000Z",
+    "updated_at": "2021-08-30T10:46:51.000000Z",
+    "slug": {
+      "en_GB": "portable-granular-spreader",
+      "en_US": "portable-granule-spreader",
+      "es_AR": "dispensador-de-granulos-portatil",
+      "es_ES": "dispensador-de-granulos-portatil",
+      "pt_BR": "distribuidores-de-granulos"
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 1,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      16
+    ],
+    "show_in_comparator": 0,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 22,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Precision Agriculture",
+      "en_US": "Precision Agriculture",
+      "es_AR": "Agricultura de Precisión",
+      "es_ES": "Agricultura de Precisión",
+      "pt_BR": "Agricultura de Precisão ",
+      "ru_RU": "Точное Земледелие"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1593598139114_capa_produto.gif",
+      "name": "category_image_1593598139114_capa_produto.gif",
+      "size": 44620,
+      "type": "image/gif"
+    },
+    "created_at": "2020-01-16T03:16:29.000000Z",
+    "updated_at": "2021-06-10T10:19:01.000000Z",
+    "slug": {
+      "en_GB": "precision-agriculture",
+      "en_US": "precision-agriculture",
+      "es_AR": "agricultura-de-precision",
+      "es_ES": "agricultura-de-precision",
+      "pt_BR": "agricultura-de-precisao",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 0,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 23,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Planter",
+      "en_US": "Planter",
+      "es_AR": "Sembradora",
+      "es_ES": "Sembradora",
+      "pt_BR": "Plantadeiras",
+      "ru_RU": "Сеялка"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1602701608176_meridia.jpg",
+      "name": "category_image_1602701608176_meridia.jpg",
+      "size": 137557,
+      "type": "image/jpeg"
+    },
+    "created_at": "2020-07-28T11:56:43.000000Z",
+    "updated_at": "2021-06-18T10:37:59.000000Z",
+    "slug": {
+      "en_GB": "planter",
+      "en_US": "planter",
+      "es_AR": "sembradora",
+      "es_ES": "sembradora",
+      "pt_BR": "plantadeiras",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 1,
+    "launch": 1,
+    "prelaunch_market_ids": [
+      3,
+      4,
+      5,
+      6,
+      13,
+      14,
+      15,
+      8,
+      10,
+      11
+    ],
+    "launch_market_ids": [
+      1,
+      2,
+      12,
+      16,
+      7
+    ],
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 25,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Sugar Cane Harvester ",
+      "en_US": "Sugar Cane Harvester ",
+      "es_AR": "Cosechadora de Caña ",
+      "es_ES": "Cosechadora de Caña ",
+      "pt_BR": "Colhedora de cana",
+      "ru_RU": "Комбайн для уборки сахарного тростника Hover 500"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1602701823346_hover.jpg",
+      "name": "category_image_1602701823346_hover.jpg",
+      "size": 130844,
+      "type": "image/jpeg"
+    },
+    "created_at": "2020-08-10T10:09:40.000000Z",
+    "updated_at": "2021-06-18T10:41:38.000000Z",
+    "slug": {
+      "en_GB": "sugar-cane-harvester",
+      "en_US": "sugar-cane-harvester",
+      "es_AR": "cosechadora-de-cana",
+      "es_ES": "cosechadora-de-cana",
+      "pt_BR": "colhedora-de-cana",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 1,
+    "launch": 0,
+    "prelaunch_market_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 27,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Autonomous Sprayer",
+      "en_US": "Autonomous Sprayer",
+      "es_AR": "Pulverizador autónomo",
+      "es_ES": "Pulverizador autónomo",
+      "pt_BR": "Pulverizador Autônomo"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1602701911354_jav.jpg",
+      "name": "category_image_1602701911354_jav.jpg",
+      "size": 92015,
+      "type": "image/jpeg"
+    },
+    "created_at": "2020-08-13T15:32:15.000000Z",
+    "updated_at": "2021-06-10T10:18:50.000000Z",
+    "slug": {
+      "en_GB": "autonomous-sprayer",
+      "en_US": "autonomous-sprayer",
+      "es_AR": "pulverizador-autonomo",
+      "es_ES": "pulverizador-autonomo",
+      "pt_BR": "pulverizador-autonomo"
+    },
+    "header_image": [],
+    "prelaunch": 1,
+    "launch": 0,
+    "prelaunch_market_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "launch_market_ids": null,
+    "show_in_comparator": 0,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 28,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Boom Sprayers",
+      "en_US": "Boom Sprayers",
+      "es_AR": "Pulverizadores de barras",
+      "es_ES": "Pulverizadores de barras",
+      "pt_BR": "Pulverizadores de barras",
+      "ru_RU": "ШТАНГОВЫЕ ОПРЫСКИВАТЕЛИ"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1597427177568_barras.png",
+      "name": "category_image_1597427177568_barras.png",
+      "size": 300927,
+      "type": "image/png"
+    },
+    "created_at": "2020-08-14T14:45:51.000000Z",
+    "updated_at": "2021-06-15T18:09:59.000000Z",
+    "slug": {
+      "en_GB": "boom-sprayers",
+      "en_US": "boom-sprayers",
+      "es_AR": "pulverizadores-de-barras",
+      "es_ES": "pulverizadores-de-barras",
+      "pt_BR": "pulverizadores-de-barras",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 29,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": " Air Blast Sprayers",
+      "en_US": " Air Blast Sprayers",
+      "es_AR": "Pulverizadores turbos",
+      "es_ES": "Pulverizadores turbos",
+      "pt_BR": "Pulverizadores turbos",
+      "ru_RU": "ВЕНТИЛЯТОРНЫЕ ОПРЫСКИВАТЕЛИ"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1597427243707_turbo.png",
+      "name": "category_image_1597427243707_turbo.png",
+      "size": 210866,
+      "type": "image/png"
+    },
+    "created_at": "2020-08-14T14:47:23.000000Z",
+    "updated_at": "2021-06-01T05:04:01.000000Z",
+    "slug": {
+      "en_GB": "air-blast-sprayers",
+      "en_US": "air-blast-sprayers",
+      "es_AR": "pulverizadores-turbos",
+      "es_ES": "pulverizadores-turbos",
+      "pt_BR": "pulverizadores-turbos",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 1,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 30,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "NOZZLES AND ACCESSORIES",
+      "en_US": "NOZZLES AND ACCESSORIES",
+      "es_AR": "BOQUILLAS Y ACCESORIOS",
+      "es_ES": "BOQUILLAS Y ACCESORIOS",
+      "pt_BR": "Bicos e acessórios",
+      "ru_RU": "Насадки и аксессуары"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1597427316161_bicos.png",
+      "name": "category_image_1597427316161_bicos.png",
+      "size": 189992,
+      "type": "image/png"
+    },
+    "created_at": "2020-08-14T14:48:36.000000Z",
+    "updated_at": "2021-06-10T10:19:11.000000Z",
+    "slug": {
+      "en_GB": "nozzles-and-accessories",
+      "en_US": "nozzles-and-accessories",
+      "es_AR": "boquillas-y-accesorios",
+      "es_ES": "boquillas-y-accesorios",
+      "pt_BR": "bicos-e-acessorios",
+      "ru_RU": ""
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": null,
+    "launch_market_ids": null,
+    "show_in_comparator": 0,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 35,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Agriculture 4.0",
+      "en_US": "Agriculture 4.0",
+      "pt_BR": "Agricultura 4.0"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1622574930710_agricultura_03.png",
+      "name": "category_image_1622574930710_agricultura_03.png",
+      "size": 62176,
+      "type": "image/png"
+    },
+    "created_at": "2021-05-27T12:04:56.000000Z",
+    "updated_at": "2021-06-15T18:11:00.000000Z",
+    "slug": {
+      "en_GB": "agriculture-40",
+      "en_US": "agriculture-40",
+      "pt_BR": "agricultura-40"
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 1,
+    "prelaunch_market_ids": [],
+    "launch_market_ids": [
+      1
+    ],
+    "show_in_comparator": 0,
+    "scopes": [
+      "services"
+    ],
+    "preview": 0,
+    "preview_market_ids": null,
+    "markets_ids": [
+      1
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 37,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "Trainings",
+      "en_US": "Trainings",
+      "es_ES": "Entrenamientos",
+      "pt_BR": "Treinamentos"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1622635401706_treinamentos.png",
+      "name": "category_image_1622635401706_treinamentos.png",
+      "size": 12806,
+      "type": "image/png"
+    },
+    "created_at": "2021-06-01T20:28:48.000000Z",
+    "updated_at": "2021-06-15T18:12:44.000000Z",
+    "slug": {
+      "en_GB": "trainings",
+      "en_US": "trainings",
+      "es_ES": "entrenamientos",
+      "pt_BR": "treinamentos"
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 1,
+    "prelaunch_market_ids": [],
+    "launch_market_ids": [
+      1
+    ],
+    "show_in_comparator": 0,
+    "scopes": [
+      "services"
+    ],
+    "preview": 0,
+    "preview_market_ids": [],
+    "markets_ids": [
+      1
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 38,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "PREDICTIVE INTELLIGENCE",
+      "en_US": "PREDICTIVE INTELLIGENCE",
+      "es_ES": "INTELIGENCIA PREDICTIVA",
+      "pt_BR": " INTELIGÊNCIA PREDITIVA "
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1622587035986_cinza_02.png",
+      "name": "category_image_1622587035986_cinza_02.png",
+      "size": 11062,
+      "type": "image/png"
+    },
+    "created_at": "2021-06-01T21:05:35.000000Z",
+    "updated_at": "2021-06-16T11:49:38.000000Z",
+    "slug": {
+      "en_GB": "predictive-intelligence",
+      "en_US": "predictive-intelligence",
+      "es_ES": "inteligencia-predictiva",
+      "pt_BR": "inteligencia-preditiva"
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": [],
+    "launch_market_ids": [],
+    "show_in_comparator": 0,
+    "scopes": [
+      "services"
+    ],
+    "preview": 1,
+    "preview_market_ids": [
+      1
+    ],
+    "markets_ids": [
+      1
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 39,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "OPERATIONAL CONSULTING",
+      "en_US": "OPERATIONAL CONSULTING",
+      "es_ES": "CONSULTORÍA OPERATIVA",
+      "pt_BR": "CONSULTORIA OPERACIONAL"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1622587051912_cinza.png",
+      "name": "category_image_1622587051912_cinza.png",
+      "size": 10206,
+      "type": "image/png"
+    },
+    "created_at": "2021-06-01T21:06:48.000000Z",
+    "updated_at": "2021-07-05T11:52:24.000000Z",
+    "slug": {
+      "en_GB": "operational-consulting",
+      "en_US": "operational-consulting",
+      "es_ES": "consultoria-operativa",
+      "pt_BR": "consultoria-operacional"
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": [],
+    "launch_market_ids": [],
+    "show_in_comparator": 0,
+    "scopes": [
+      "services"
+    ],
+    "preview": 1,
+    "preview_market_ids": [
+      1
+    ],
+    "markets_ids": [
+      1
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 40,
+    "parent_id": null,
+    "status": 1,
+    "name": {
+      "en_GB": "PERFORM OPERATIONS",
+      "en_US": "PERFORM OPERATIONS",
+      "es_ES": "REALIZAR OPERACIONES",
+      "pt_BR": "REALIZAR OPERAÇÕES"
+    },
+    "image": {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/category_image_1622587301846_cinza_03.png",
+      "name": "category_image_1622587301846_cinza_03.png",
+      "size": 9246,
+      "type": "image/png"
+    },
+    "created_at": "2021-06-01T22:41:41.000000Z",
+    "updated_at": "2021-06-16T11:48:45.000000Z",
+    "slug": {
+      "en_GB": "perform-operations",
+      "en_US": "perform-operations",
+      "es_ES": "realizar-operaciones",
+      "pt_BR": "realizar-operacoes"
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": [],
+    "launch_market_ids": [],
+    "show_in_comparator": 0,
+    "scopes": [
+      "services"
+    ],
+    "preview": 1,
+    "preview_market_ids": [
+      1
+    ],
+    "markets_ids": [
+      1
+    ],
+    "children_ids": []
+  },
+  {
+    "id": 41,
+    "parent_id": null,
+    "status": 0,
+    "name": {
+      "pt_BR": "Ecossistema digital"
+    },
+    "image": [],
+    "created_at": "2021-10-15T13:54:22.000000Z",
+    "updated_at": "2021-10-15T13:54:22.000000Z",
+    "slug": {
+      "pt_BR": "ecossistema-digital"
+    },
+    "header_image": [],
+    "prelaunch": 0,
+    "launch": 0,
+    "prelaunch_market_ids": [],
+    "launch_market_ids": [],
+    "show_in_comparator": 0,
+    "scopes": [
+      "products"
+    ],
+    "preview": 0,
+    "preview_market_ids": [],
+    "markets_ids": [
+      1
+    ],
+    "children_ids": []
+  }
+]
